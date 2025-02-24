@@ -11,7 +11,7 @@ const ProjectsMain = () => {
       year: "2025",
       align: "right",
       image: "images/website-img-1.png",
-      link: "https://app.netlify.com/sites/cloudwingsbysurya/overview",
+      link: "https://cloudwingsbysurya.netlify.app/",
     },
     {
       name: "Password Manager",
@@ -25,7 +25,7 @@ const ProjectsMain = () => {
       year: "2025",
       align: "right",
       image: "images/website-img-3.png",
-      link: "https://app.netlify.com/sites/emicalculatorbysurya/overview",
+      link: "https://emicalculatorbysurya.netlify.app/",
     },
     {
       name: "Weather App",
@@ -54,6 +54,7 @@ const ProjectsMain = () => {
               year={item.year}
               align={index % 2 === 0 ? "left" : "right"}
               image={item.image}
+              link={item.link}
             />
           );
         })}
