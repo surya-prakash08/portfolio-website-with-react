@@ -7,7 +7,7 @@ const NavbarMain = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
   const toggleMenu = () => {
-    console.log("Clicked");
+   
     setMenuOpen(!menuOpen);
   };
   return (
