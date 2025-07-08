@@ -7,7 +7,7 @@ const AboutMeText = () => {
 
       <p className="text-white ">
         {" "}
-        I am a Dynamic Frontend Developer with 3 years of experience at Infosys
+        I am a Dynamic Frontend Developer with 3+ years of experience at Infosys
         Limited, delivering engaging web applications and enhancing user
         experiences. Proficient in JavaScript, HTML5, CSS, React.js , Node.js,
         Express, RESTful API and Redux Toolkit, demonstrating a strong ability
