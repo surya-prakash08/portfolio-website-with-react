@@ -31,7 +31,7 @@ const HeroText = () => {
       >
         A Passionate web Developer
         <br />
-        with 3 years of experience{" "}
+        with 3+ years of experience{" "}
       </motion.p>
     </div>
   );
