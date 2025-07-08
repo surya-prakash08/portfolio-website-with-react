@@ -8,7 +8,7 @@ const ExperienceTopLeft = () => {
         Since 2022
       </p>
       <div className="flex justify-center items-center gap-4 ">
-        <ExperienceInfo number="3" text="Years" />
+        <ExperienceInfo number="3+" text="Years" />
         <p className="font-bold text-2xl text-lightBrown">@</p>
         <ExperienceInfo text="Infosys Limited"  />
       </div>
